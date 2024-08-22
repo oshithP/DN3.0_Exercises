@@ -1,0 +1,5 @@
+com\example\BookstoreAPI\BookstoreApiApplication.class
+com\example\BookstoreAPI\entity\Book.class
+com\example\BookstoreAPI\entity\Customer.class
+com\example\BookstoreAPI\controller\BookController.class
+com\example\BookstoreAPI\controller\CustomerController.class
